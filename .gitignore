@@ -3,3 +3,6 @@
 .vscode/
 __pycache__/
 .pytest_cache/
+lab3_data/
+__pycache__/
+.pytest_cache/
